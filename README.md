@@ -15,5 +15,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulchikaosolu&show_icons=true&include_all_commits=true&hide_border=true" alt="Paul's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulchikaosolu&langs_count=8&layout=compact&hide_border=true" alt="Paul's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulesma&show_icons=true&include_all_commits=true&hide_border=true" alt="Paulesma's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulesma&langs_count=8&layout=compact&hide_border=true" alt="Paulesma's GitHub stats" /> |
 | ------------- | ------------- |
